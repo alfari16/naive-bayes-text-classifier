@@ -2,8 +2,6 @@
 
 namespace Biobii;
 
-use Biobii\Stemmer;
-
 class NaiveBayes
 {
     /**
